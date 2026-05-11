@@ -1,8 +1,42 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Fortetude
+description: A self-assessment and practice tool for parkour practitioners
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://fortetude.github.io
+repository: fortetude/fortetude # for github-metadata
 
+aux_links_new_tab: true
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Website Repository: https://github.com/fortetude/fortetude.github.io
+
+nav_external_links: 
+- title: Report issues
+  url: https://github.com/fortetude/fortetude/issues
+
+# Google Analytics
+ga_tracking: G-44CSVHJ1JC
+
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+gh_edit_link: false # show or hide edit this page link
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+
+footer_content: 'Made with ❤️ by <a href="https://github.com/kawing-ho">kawing-ho</a>, for traceurs by traceurs.'
