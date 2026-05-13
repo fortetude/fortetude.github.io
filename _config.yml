@@ -7,7 +7,8 @@ repository: fortetude/fortetude # for github-metadata
 
 aux_links_new_tab: true
 aux_links:
-  Website Repository: https://github.com/fortetude/fortetude.github.io
+  Online Demo: https://fortetude.github.io/app
+  Docs Repo: https://github.com/fortetude/fortetude.github.io
 
 nav_external_links: 
 - title: Report issues

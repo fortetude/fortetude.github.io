@@ -1,35 +1,54 @@
 ---
-title: Home
+title: "Home / Introduction"
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* templates to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Why did I make this app?
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Background
 
-More specifically, the created site:
+I’ve been training Parkour/ADD since 2012. During this time, I had _(and still have)_ an extremely bad habit of only training the moves I liked and neglecting others, or neglecting the non-dominant side of the same move - kicking the can down the road and constantly telling myself I'd get to it eventually. 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+After many years of this, the gap in overall control and competency increased between favoured/neglected moves, which only served in further reminding me of all the bad holes in my movement vocabulary. 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+> My body would literally float like a butterfly on one move but feel clunky like a rock the moment I switched sides. 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+I also noticed I was stronger in my lower body than in my upper body - and instead of working hard to even out the imbalances, my tendencies over the years caused the imbalance to grow further and now I excel in jumping moves but suffer in areas requiring upper body strength such as climbups. 
 
-To get started with creating a site, simply:
+This led to knock-on effects in other movements too like dynos and wallruns, since I did not like the physical sensation of feeling weak, I drilled them less and the overall technique of these moves also suffered as a result.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Uh-huh, so?
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+From an optimistic point of view that’s totally fine since you can get away with filming perfect lines using the moves you  are great at! I did that all the time too.
 
-----
+However, reality is often unforgiving and - leaning on the utility side of parkour - it is best to be prepared for all situations. In real life, you don’t get to count your steps such that you can do the running pre comfortably off your good leg or execute that tricky vault off your good hand. 
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Makes sense - so why the app?
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Despite knowing this was a problem for awhile, I tried making concious efforts to change but never had any solid outcomes. I struggled without really knowing if there was a solution to this problem...       
+
+Eventually, I came across a book by Jon Acuff, which showcased this [quote]:
+
+{: .note-title}
+> Quote:
+> 
+> Data doesn’t lie, though. It is not swayed by emotion. It is not subject to the drunken whims of feelings. Disaster is always the final destination of denial.
+
+
+I realised it was worth a shot to convert my existing library of movements and their current "state" into data. My vision was that each time I trained, I would use the app to lead myself away from the <span class="text-green-200">good</span> stuff and try to focus more on the <span class="text-red-200">bad</span> stuff to improve!
+
+I created this app to help me achieve more consistent stability and performance across my movement vocabulary, and my sincere hope is that others will find it useful too!
+
+# Does the name mean anything?
+
+> Forte[^1] + Fortitude[^2] = Fortetude
+
+The logo is meant to look like someone doing a speed vault as well! Hand-created using SVG vector art without the use of any AI.
+
+
+
+> [^1]: "Être fort pour être utile" **(Be strong to be useful)**  
+> [^2]: **fortetude**: strength of mind that enables a person to encounter danger or bear pain or adversity with courage
+
+[quote]: https://www.goodreads.com/quotes/9026421-your-emotions-cloud-your-judgment-they-form-a-perfect-smoke
