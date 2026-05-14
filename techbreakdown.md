@@ -37,7 +37,7 @@ For more in-depth info on features, check out the subpages within the [User Guid
 
 ### Moves
 
-A Move is basically an Object that has several fields such as:
+A `Move` is basically an Object that has several fields such as:
 - Name
 - Direction
 - Category
@@ -131,7 +131,7 @@ Bar Muscle Up
 
 ### Lines
 
-A Line is basically a list of Move objects, with self-explanatory fields such as:
+A `Line` is basically a list of Move objects, with self-explanatory fields such as:
 - Name
 - Move List
 - Pinned
