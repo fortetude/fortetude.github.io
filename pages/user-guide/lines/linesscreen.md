@@ -1,5 +1,5 @@
 ---
-title: Using the Sandbox screen
+title: Lines Screen
 layout: minimal
 parent: User Guide
 nav_order: 3

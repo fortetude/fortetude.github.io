@@ -1,5 +1,5 @@
 ---
-title: Using the Moves screen
+title: Sandbox Screen
 layout: minimal
 parent: User Guide
 nav_order: 2

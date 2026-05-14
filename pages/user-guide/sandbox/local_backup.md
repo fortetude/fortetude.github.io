@@ -1,7 +1,7 @@
 ---
-title: Performing a local backup
+title: Performing a Local Backup
 layout: minimal
-parent: User Guide
+parent: Sandbox Screen
 nav_order: 6
 ---
 

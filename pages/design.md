@@ -1,11 +1,14 @@
 ---
 title: Design Philosophy
-parent: Home / Introduction
-nav_order: 1
-layout: minimal
+nav_order: 4
+layout: default
 ---
 
 # The Design Philosophy
+{: .no_toc }
+
+- TOC 
+{:toc}
 
 ## its not a tutorial app!
 

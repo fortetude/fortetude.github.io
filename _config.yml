@@ -1,5 +1,5 @@
 title: Fortetude
-description: A self-assessment and practice tool for parkour practitioners
+description: A self-assessment and practice tool for traceurs
 theme: just-the-docs
 
 url: https://fortetude.github.io
@@ -17,11 +17,21 @@ nav_external_links:
 # Google Analytics
 ga_tracking: G-44CSVHJ1JC
 
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: default
+
+logo: "/assets/images/fortetude.svg"
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 gh_edit_link: false # show or hide edit this page link
+
+heading_anchors: true
 
 callouts:
   highlight:

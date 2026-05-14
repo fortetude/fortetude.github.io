@@ -1,14 +1,16 @@
 ---
 title: Technical Breakdown
-layout: minimal
-parent: "Home / Introduction"
-nav_order: 2
+layout: default
+nav_exclude: true
+nav_order: 5
 ---
+
+# Technical Breakdown
 
 {: .highlight-title}
 > Hello World!
 >
-> This page is more for if you're a dev and interested in the inner workings of the app.
+> This page is more for if you're a dev and interested in the inner workings of the app. 🪽
 
 ## Base Language
 
