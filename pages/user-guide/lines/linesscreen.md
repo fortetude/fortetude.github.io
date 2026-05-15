@@ -1,6 +1,6 @@
 ---
 title: Lines Screen
-layout: minimal
+layout: default
 parent: User Guide
 nav_order: 3
 ---

@@ -8,5 +8,7 @@ nav_order: 3
 
 The pages below serve as guides for new users and provides a summary of the features provided.
 
-{: .note}
-> In general, if you don't know what a button does, you can long press it to get a tooltip!
+{: .new-title}
+> Tip!
+>
+> If you don't know what a button does, you can long press it to get a tooltip! 💬

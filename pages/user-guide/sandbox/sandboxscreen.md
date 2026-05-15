@@ -1,6 +1,6 @@
 ---
 title: Sandbox Screen
-layout: minimal
+layout: default
 parent: User Guide
 nav_order: 2
 ---
