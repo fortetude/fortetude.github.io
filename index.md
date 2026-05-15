@@ -18,8 +18,16 @@ An offline tool that helps self-assess your movements and build adaptive lines, 
 
 ---
 
+## Features
+
+|  [Moves](/pages/user-guide/moves/movesscreen) | [Sandbox](/pages/user-guide/sandbox/sandboxscreen) | [Lines](/pages/user-guide/lines/linesscreen) |
+| ----------------------------------- | ------------------------------------- | ----------------------------------- | 
+| ![m](/assets/images/moves-main.png) | ![s](/assets/images/sandbox-main.png) | ![l](/assets/images/lines-main.png) |
+
 
 ## About the project
 
 Work in Progress! 🔧
 {: .label .label-red}
+
+📊 📈 📉
