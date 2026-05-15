@@ -1,5 +1,10 @@
 ---
-title: Share the Sandbox
+title: Sharing the Sandbox 🔧
 parent: Sandbox Screen
-layout: minimal
+layout: default
 ---
+
+# Sharing the Sandbox
+
+Work in Progress! 🔧
+{: .label .label-red}

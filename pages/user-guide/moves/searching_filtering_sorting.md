@@ -1,6 +1,6 @@
 ---
 title: Searching, Filtering and Sorting Moves
-layout: minimal
+layout: default
 parent: Moves Screen
 nav_order: 2
 ---
@@ -10,7 +10,7 @@ nav_order: 2
 The full list of moves is quite long, so filtering and searching lets you quickly drill-down to only what you want to see; Sorting is also great for quickly identifying patterns and drawing conclusions based on the data.  
 
 <details>
-<summary>Simply tap the filter icon (▼) on the top-right to get started.</summary>  
+<summary>Simply tap the filter icon (▼) on the top-left to get started.</summary>  
     <img src="/assets/images/moves-drawer.png">  
 </details>
 

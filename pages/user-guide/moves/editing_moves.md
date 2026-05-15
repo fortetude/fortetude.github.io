@@ -1,7 +1,7 @@
 ---
 title: Editing Move Properties
 parent: Moves Screen
-layout: minimal
+layout: default
 nav_order: 1
 ---
 

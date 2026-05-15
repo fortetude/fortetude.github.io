@@ -1,9 +1,10 @@
 ---
-title: Performing a Local Backup
-layout: minimal
+title: Performing a Local Backup 🔧
+layout: default
 parent: Sandbox Screen
-nav_order: 6
 ---
 
-Work in Progress!
+# Performing a Local Backup
+
+Work in Progress! 🔧
 {: .label .label-red}

@@ -5,4 +5,10 @@ parent: User Guide
 nav_order: 2
 ---
 
-foo
+# Sandbox Screen
+
+The main screen of the app, with lots of functionality for line building and tweaking.
+  
+---
+
+![index](/assets/images/sandbox-index.png)

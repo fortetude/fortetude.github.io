@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Installation 🔧
 layout: default
 nav_order: 2
 ---
@@ -15,22 +15,23 @@ nav_order: 2
 
 
 | - | -           |
-|  Navigate to this page on your phone (or scan the QR code) and follow the platform-specific instructions below.| [qr.png](#)  |
-
-<details id="android-install">
-<summary>PWA installation on Android 🤖</summary>
-```
+|  Navigate to this page on your phone (or scan the QR code) and follow the platform-specific instructions below.| ![qr.png](/assets/images/qr.png)  |
   
-```
-</details>
-
-<details id="ios-install">
-<summary>PWA installation on iOS 🍎</summary>
-```
+<details id="android-install">  
+  <summary>PWA installation on Android 🤖</summary>  
+    
+  > Work in Progress! 🔧  
+    
+</details>  
+    
+    
+<details id="ios-install">  
+<summary>PWA installation on iOS 🍎</summary>    
   
-```
-</details>
-
+> Work in Progress! 🔧  
+  
+</details>  
+  
 
 ### App Stores
 

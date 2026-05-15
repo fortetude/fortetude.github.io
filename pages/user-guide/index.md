@@ -12,3 +12,5 @@ The pages below serve as guides for new users and provides a summary of the feat
 > Tip!
 >
 > If you don't know what a button does, you can long press it to get a tooltip! 💬
+
+Tired of navigating? Try using the searchbar above to search for what you need!

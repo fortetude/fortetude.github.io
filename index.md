@@ -21,5 +21,5 @@ An offline tool that helps self-assess your movements and build adaptive lines, 
 
 ## About the project
 
-Work in Progress!
+Work in Progress! 🔧
 {: .label .label-red}
