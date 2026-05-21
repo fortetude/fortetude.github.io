@@ -7,7 +7,7 @@ repository: fortetude/fortetude # for github-metadata
 
 aux_links_new_tab: true
 aux_links:
-  Online Demo: https://fortetude.github.io/app
+  Online Demo: https://fortetude.github.io/fortetude/
   Docs Repo: https://github.com/fortetude/fortetude.github.io
 
 nav_external_links: 
@@ -25,6 +25,7 @@ defaults:
       layout: default
 
 logo: "/assets/images/fortetude.svg"
+favicon_ico: "/assets/images/favicon.ico"
 
 # Back to top link
 back_to_top: false

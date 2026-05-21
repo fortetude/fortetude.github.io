@@ -45,11 +45,14 @@ Currently, I'm using this app to achieve more consistent stability and performan
 
 > Forte[^1] + Fortitude[^2] = Fortetude
 
-The logo is meant to look like someone doing a speed vault - hand-created using SVG vector art by me without the use of any AI.
+The logo is meant to look like someone doing a speed vault and doubles as the letter **F** - hand-created using Figma by me without the use of any AI.  
+  
+| - | - | - |
+| ![ref](/assets/images/stick-ref.png) | ![black](/assets/images/stick.png)  | ![green](/assets/images/stick-green.png)  |
 
 
 
 > [^1]: "Être fort pour être utile" **(Be strong to be useful)**  
-> [^2]: **fortetude**: strength of mind that enables a person to encounter danger or bear pain or adversity with courage
+> [^2]: **fortitude**: strength of mind that enables a person to encounter danger or bear pain or adversity with courage
 
 [quote]: https://www.goodreads.com/quotes/9026421-your-emotions-cloud-your-judgment-they-form-a-perfect-smoke

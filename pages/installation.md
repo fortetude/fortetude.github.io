@@ -1,5 +1,5 @@
 ---
-title: Installation 🔧
+title: Installation
 layout: default
 nav_order: 2
 ---
@@ -9,58 +9,33 @@ nav_order: 2
 {: .important-title}
 > Try the Demo!
 >
-> Before installing, you can play with the [browser version](https://fortetude.github.io/app) first!
+> Before installing, you can play with the [browser version](https://fortetude.github.io/fortetude/) first!
 
-### Progressive Web App (PWA)
+## Progressive Web App (PWA)
 
 
 | - | -           |
 |  Navigate to this page on your phone (or scan the QR code) and follow the platform-specific instructions below.| ![qr.png](/assets/images/qr.png)  |
   
-<details id="android-install">  
-  <summary>PWA installation on Android 🤖</summary>  
+### PWA installation on Android 🤖
     
-  > Work in Progress! 🔧  
+| - | - |  
+| Open the demo URL in Chrome and tap the top right overflow menu button | ![and1](/assets/images/android1.png) |  
+| In the overflow menu options, scroll down and look for "Add to Home screen" | ![and2](/assets/images/android2.png) |  
+| Feel free to edit the name, or tap "Add" straight away | ![and3](/assets/images/android3.png) |  
+| The app is now installed as a PWA! | ![and4](/assets/images/android4.png) |  
+
+### PWA installation on iOS 🍎   
     
-</details>  
-    
-    
-<details id="ios-install">  
-<summary>PWA installation on iOS 🍎</summary>    
-  
-> Work in Progress! 🔧  
-  
-</details>  
-  
+| - | - |  
+| Open the demo URL in Safari and tap the Share button | ![ios1](/assets/images/ios1.jpeg) |  
+| In the Share menu options, scroll down and look for "Add to Home Screen" | ![ios2](/assets/images/ios2.jpeg) |  
+| Feel free to edit options, or tap "Add" straight away | ![ios3](/assets/images/ios3.jpeg) |  
+| The app is now installed as a PWA, long-tap to edit or delete it! | ![ios4](/assets/images/ios4.jpeg) |  
+     
 
 ### App Stores
 
 | Google Play Store                                   | Apple App Store                                     |
 | --------------------------------------------------- | --------------------------------------------------- |
 | Not available at this time but maybe in the future! | Not available at this time but maybe in the future! |
-
-
-
-<!-- open/close sections by user-agent -->
-<script>
-const ua = navigator.userAgent || navigator.vendor || window.opera;
-
-const isIOS = /iPad|iPhone|iPod/.test(ua)
-  || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-
-const isAndroid = /Android/.test(ua);
-
-const iosDetails = document.getElementById("ios-install");
-const androidDetails = document.getElementById("android-install");
-
-if (isIOS) {
-  iosDetails.open = true;
-  androidDetails.open = false;
-} else if (isAndroid) {
-  androidDetails.open = true;
-  iosDetails.open = false;
-} else {
-  androidDetails.open = false;
-  iosDetails.open = false;
-}
-</script>

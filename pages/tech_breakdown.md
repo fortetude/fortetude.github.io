@@ -33,7 +33,7 @@ General functionality is split into three screens, mainly:
 - **Sandbox** screen: The area used to mess around with `Moves`, making `Lines` etc.
 - **Lines** screen: For viewing saved `Lines` (ordered list of `Moves`).
 
-For more in-depth info on features, check out the subpages within the [User Guide](/userguide.html).
+For more in-depth info on features, check out the subpages within the [User Guide](/pages/user-guide).
 
 ## Data Storage via Hive Objects
 
