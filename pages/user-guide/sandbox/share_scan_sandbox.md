@@ -6,8 +6,7 @@ layout: default
 
 # Sharing the Sandbox
 
-Work in Progress! 🔧
-{: .label .label-red}
+Share with your friends! You can choose to share via plain Text or QR codes.
 
 --- 
 
